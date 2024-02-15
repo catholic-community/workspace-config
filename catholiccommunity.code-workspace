@@ -1,12 +1,12 @@
 {
   "folders": [
     {
-      "path": "landing-page",
+      "path": "pages/landing-page",
       "name": "Landing Page"
     },
     {
-      "path": "map",
-      "name": "Map"
+      "path": "pages/map",
+      "name": "Map Page"
     }
   ],
   "settings": {
