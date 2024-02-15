@@ -7,6 +7,10 @@
     {
       "path": "pages/map",
       "name": "Map Page"
+    },
+    {
+      "path": "pages/auth",
+      "name": "Auth Page"
     }
   ],
   "settings": {
